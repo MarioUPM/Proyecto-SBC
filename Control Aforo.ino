@@ -10,9 +10,9 @@ AirQualitySensor sensor(35);
 /////////////////////////////////////////////////////////////
 
 // WiFi access point
-#define WIFI_AP_NAME        "MiFibra-1FC9 2.4GHz"
+#define WIFI_AP_NAME        ""
 // WiFi password
-#define WIFI_PASSWORD       "Pv2fvG3R"
+#define WIFI_PASSWORD       ""
 
 // See https://thingsboard.io/docs/getting-started-guides/helloworld/ 
 // to understand how to obtain an access token
